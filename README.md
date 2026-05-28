@@ -36,20 +36,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+
+
+
+<h2 align="left">Activity</h2>
+
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroNobrega&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroNobrega&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroNobrega&theme=dark&hide_border=true" height="150" alt="streak graph" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedroNobrega/JoaoPedroNobrega/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedroNobrega/JoaoPedroNobrega/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoPedroNobrega/JoaoPedroNobrega/pacman-output/bomberman-contribution-graph.svg">
-</picture>
 
 ###
 
